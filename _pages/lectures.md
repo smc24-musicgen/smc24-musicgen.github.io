@@ -1,8 +1,13 @@
 ---
 layout: schedule
 permalink: /lectures/
-title: Schedule
+title: Lectures
 ---
+
+* (The list will be replaced with the table of contents.)
+{:toc}
+
+***
 
 ### Class 1: Course Introduction
 
