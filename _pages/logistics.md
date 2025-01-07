@@ -9,31 +9,36 @@ title: Logistics
 
 ***
 
-## Tools and Programming Languages
+### Tools and Programming Languages
 
-Part 1 of the course will use Python. All coding assignments should be coded in Python 3.10. The deep learning implementation will be done in TensorFlow/Keras.
+* Part 1 of the course will use Python. 
+* All coding assignments should be coded in Python 3.10. 
+* The deep learning implementation will be done in TensorFlow/Keras.
 
-## Assignments
+### Assignments
 
 #### Pre-class quizzes
 
-Students will be required to submit a quiz on the current technology before each class. The quizzes will test their understanding of the concepts discussed in the assigned pre-class videos. There will be four quizzes, covering Markov Chains, Genetic Algorithms, RNN/LSTMs, and Transformers.
+* Students will be required to submit a quiz on the current technology before each class. 
+* The quizzes will test their understanding of the concepts discussed in the assigned pre-class videos. 
+* There will be four quizzes, covering Markov Chains, Genetic Algorithms, RNN/LSTMs, and Transformers.
 
 #### Coding Assignments
 
-There will be four coding assignments—one for each technique introduced in the course. Coding assignments will be done in groups of two people.
-
-These assignments will require students to implement variations or extensions of the techniques they have learned to address a specific musical challenge (e.g., melody generation).
+* There will be four coding assignments—one for each technique introduced in the course. 
+* Coding assignments will be done in groups of two people.
+* These assignments will require students to implement variations or extensions of the techniques they have learned to address a specific musical challenge (e.g., melody generation).
 
 #### Paper Implementation
 
-This will involve implementing a generative music research paper from scratch, applying the concepts and skills gained throughout the course. Paper implementation will be done in groups of two people.
+* This will involve implementing a generative music research paper from scratch, applying the concepts and skills gained throughout the course. 
+* Paper implementation will be done in groups of two people.
 
 #### Deliverables
 
-The deliverable for the code assignments and paper implementation is a link to a GitHub repository containing the implementation code. 
+* Link to a GitHub repository containing the implementation code. 
 
-## Final Project
+### Final Project
 
 Students can choose to create a Final Project for either Part 1 or Part 2 of the course. The Final Project for Part 1 will focus on symbolic generative music, while the Final Project for Part 2 will focus on audio-based generative music.
 
@@ -49,7 +54,7 @@ The final project deliverables are:
 2. A 5-minute YouTube video presentation explaining how the model works.  
 3. A 5-minute video demonstration showcasing the model in action.
 
-## Deadlines
+### Deadlines
 
 * The pre-class quizzes would be available as follows:  
   * Markov Chains quiz: January 12th noon \- January 13th noon  
@@ -60,7 +65,7 @@ The final project deliverables are:
 * The paper implementation is due by January 27th at midnight.  
 * The final project is due by \[insert date\] at midnight.
 
-## Evaluation
+### Evaluation
 
 Evaluation for the Computational Music Creativity course will be as follows:
 
@@ -85,7 +90,7 @@ If a student chooses to complete the Final Project associated with Part 1 (accou
 4. Clarity of the presentation  
 5. Quality of the creative output
 
-## Office Hours
+### Office Hours
 
 Students can book 20-minute slots (individually or in groups) with Dr. Valerio Velardo via this [Calendly page](https://calendly.com/valerio-velardo/office-hours-gen-mus-mtg), during the following times:
 
@@ -100,8 +105,8 @@ Students can reserve time with Anmol through MTG Slack, during the following tim
 * January 9th, 16:00–18:00  
 * January 24th, 12:00–14:00
 
-## Communication
+### Communication
 
-For general questions, please use the dedicated Slack channel on the MTG workspace: \##smc24-musicgen. This channel will serve as a hub for asynchronous communication and updates for all students, so make sure to check it regularly. 
-
-For individual questions, doubts, or ideas, feel free to send a direct message to Valerio Velardo and Anmol Mishra in the MTG Slack (@Valerio Velardo, @Anmol Mishra).
+* For general questions, please use the dedicated Slack channel on the MTG workspace: #smc24-musicgen.
+* This channel will serve as a hub for asynchronous communication and updates for all students, so make sure to check it regularly.
+* For individual questions, doubts, or ideas, feel free to send a direct message to Valerio Velardo and Anmol Mishra in the MTG Slack (@Valerio Velardo, @Anmol Mishra).

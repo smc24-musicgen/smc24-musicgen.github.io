@@ -9,10 +9,10 @@ news: true
 
 The first part of the Computational Music Creativity course focuses on exploring, implementing, and critically evaluating symbolic music generation techniques, including both traditional approaches and deep learning-based methods.
 
-# Learning Objectives
+### Learning Objectives
 
 * Understand the theoretical foundations and principles of symbolic generative music techniques, including Markov chains, cellular automata, genetic algorithms, RNNs/LSTMs, and transformers.  
-* Analyze the strengths and limitations of both traditional and machine-learning-based symbolic generative music techniques in terms of creativity, coherence, and practical application.  
+* Analyze the strengths and limitations of both traditional and machine-learning based symbolic generative music techniques in terms of creativity, coherence, and practical application.  
 * Code generative music systems from scratch, demonstrating the ability to translate theoretical concepts into functional implementations.  
 * Connect theory to practice by exploring how generative music techniques are applied in research, industry, and artistic projects, and discussing real-world challenges and hurdles in the field.  
 * Combine, adapt, and implement generative techniques to design symbolic music systems tailored to specific creative tasks and musical objectives.  
@@ -21,18 +21,18 @@ The first part of the Computational Music Creativity course focuses on exploring
 * Leverage cloud platforms like AWS, GCP, or Azure to run generative music models on remote servers with GPU acceleration for scalable and efficient computation.  
 * Discuss the skills, knowledge, and steps required to become a generative music AI engineer.
 
-# Pre-requisites 
+### Pre-requisites 
 
 * Students are expected to have intermediate proficiency in Python programming.  
-* A basic understanding of linear algebra (e.g., matrices, vectors, and matrix operations) will be helpful for classes focusing on deep learning concepts.  
-* A basic knowledge of TensorFlow/Keras will be helpful for deep learning techniques.  
-* **Before each class, students should watch the assigned video lectures from The Sound of AI Generative Music AI Course, covering both theory and implementation.** The specific videos for each class are listed below.   
+* Basic understanding of linear algebra (e.g., matrices, vectors, and matrix operations)
+* Basic knowledge of TensorFlow/Keras will be helpful for deep learning techniques.  
+* **Before each class, students should watch the assigned video lectures from The Sound of AI Generative Music AI Course, covering both theory and implementation.** 
 
-# Teaching Approach
+### Teaching Approach
 
-The course will cover both the theoretical and implementation aspects of symbolic generative music systems. 
+This course will cover both the theoretical and implementation aspects of symbolic generative music systems. 
 
-The course main teaching principles are: 
+The main teaching principles are: 
 
 * learning by doing,  
 * fostering proactivity and independent learning.
