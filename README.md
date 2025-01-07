@@ -1,3 +1,1 @@
-# Test Repository
-
-Private repo to test features
+# Computational Music Creativity Course Spring 2025
