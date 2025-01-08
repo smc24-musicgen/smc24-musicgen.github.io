@@ -1,1 +1,1 @@
-# CMC24 - Generative AI Music Course Spring 2025
+# CMC24 - Generative AI Music Course

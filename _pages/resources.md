@@ -27,9 +27,9 @@ title: Resources
 
 #### Generative Music AI Papers
 
+* [GenJam: A genetic algorithm for generating jazz solos](https://www.researchgate.net/publication/2342018_GenJam_A_Genetic_Algorithm_for_Generating_Jazz_Solos)  
 * [The Generative Electronic Dance Music Algorithmic System (GEDMAS)](https://www.academia.edu/101959323/The_Generative_Electronic_Dance_Music_Algorithmic_System_GEDMAS_)  
-* [On the evolution of music in a society of self-taught digital creatures](https://www.researchgate.net/publication/228609658_On_the_evolution_of_music_in_a_society_of_self-taught_digital_creatures)  
-* [GenJam: Evolution of a Jazz Improviser](https://www.researchgate.net/profile/John-Biles-2/publication/262370988_GenJam_evolution_of_a_jazz_improviser/links/54dedf3b0cf2966637880809/GenJam-evolution-of-a-jazz-improviser.pdf)  
+* [Liquiprism: Generating Polyrhythms With Cellular Automata](http://www.icad.org/websiteV2.0/Conferences/ICAD2002/proceedings/36_AlanDorin.pdf)  
 * Automatic Stylistic Composition of Bach Chorales with Deep LSTM (aka BachBot) \[[presentation](https://www.youtube.com/watch?v=yu3DZuxxV7c)\] \[[paper](https://archives.ismir.net/ismir2017/paper/000156.pdf)\]  
 * Music Transformer: Generating Music with Long-Term Structure \[[blog](https://magenta.tensorflow.org/music-transformer)\] \[[paper](https://arxiv.org/pdf/1809.04281)\]
 

@@ -31,12 +31,12 @@ title: Logistics
 
 #### Paper Implementation
 
-* This will involve implementing a generative music research paper from scratch, applying the concepts and skills gained throughout the course. 
+* This will involve implementing a generative music research paper from scratch, applying the concepts and skills gained throughout the course.
 * Paper implementation will be done in groups of two people.
 
 #### Deliverables
 
-* Link to a GitHub repository containing the implementation code. 
+* Repository with implementation in course Github Classroom.
 
 ### Final Project
 
@@ -50,7 +50,7 @@ The system will generate symbolic scores, which will be sent to Ableton for soni
 
 The final project deliverables are: 
 
-1. A GitHub repository link containing the implementation code.  
+1. A GitHub repository link containing the implementation code in the course Github Classroom. 
 2. A 5-minute YouTube video presentation explaining how the model works.  
 3. A 5-minute video demonstration showcasing the model in action.
 
