@@ -102,7 +102,7 @@ Students can book 20-minute slots (individually or in groups) with Dr. Valerio V
 Students can reserve time with Anmol through MTG Slack, during the following times:
 
 * January 6-7th, 16:00–18:00  
-* January 9th, 16:00–18:00  
+* January 10th, 16:00–18:00  
 * January 24th, 12:00–14:00
 
 ### Communication
