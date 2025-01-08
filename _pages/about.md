@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: Generative AI Music
-description: • Spring 2025 • CMC24 • Music Technology Group
+description: • CMC24 • Music Technology Group
 logo: MTG-logo.svg
 news: true
 ---
