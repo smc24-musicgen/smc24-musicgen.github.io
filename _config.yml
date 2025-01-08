@@ -16,7 +16,7 @@ baseurl:  # the subpath of your site, e.g. /blog/
 # Social integration
 # -----------------------------------------------------------------------------
 github_username: musikalkemist/smc-musicgen-course
-google_analytics:
+google_analytics: G-7M7D6LB2JF
 youtube_channel:
 rss:  # notes rss
 
