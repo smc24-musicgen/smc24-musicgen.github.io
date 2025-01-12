@@ -31,6 +31,7 @@ title: Resources
 * [The Generative Electronic Dance Music Algorithmic System (GEDMAS)](https://www.academia.edu/101959323/The_Generative_Electronic_Dance_Music_Algorithmic_System_GEDMAS_)  
 * [Liquiprism: Generating Polyrhythms With Cellular Automata](http://www.icad.org/websiteV2.0/Conferences/ICAD2002/proceedings/36_AlanDorin.pdf)  
 * Automatic Stylistic Composition of Bach Chorales with Deep LSTM (aka BachBot) \[[presentation](https://www.youtube.com/watch?v=yu3DZuxxV7c)\] \[[paper](https://archives.ismir.net/ismir2017/paper/000156.pdf)\]  
+* Museformer: Transformer with Fine- and Coarse-Grained Attention for Music Generation \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/092c2d45005ea2db40fc24c470663416-Paper-Conference.pdf)\]\[[website](https://ai-muzic.github.io/museformer/)\]
 * Music Transformer: Generating Music with Long-Term Structure \[[blog](https://magenta.tensorflow.org/music-transformer)\] \[[paper](https://arxiv.org/pdf/1809.04281)\]
 
 #### Symbolic Music Representation Formats
