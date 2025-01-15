@@ -63,7 +63,7 @@ The final project deliverables are:
   * Transformer quiz: January 14th noon \- January 15th noon  
 * The four code assignments are due by January 26th at midnight.  
 * The paper implementation is due by January 27th at midnight.  
-* The final project is due by \[insert date\] at midnight.
+* The final project is due by March 20th at midnight.
 
 ### Evaluation
 
