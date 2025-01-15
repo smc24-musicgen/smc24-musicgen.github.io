@@ -194,7 +194,7 @@ I’m really excited to see where this pivot takes us. The work you’re doing i
 
 Valerio, your CTO
 
-<!-- ### Assignment 4: Transform my Melody
+### Assignment 4: Transform my Melody
 
 Hey Team,
 
@@ -239,7 +239,7 @@ These are optional, but if you have the time and want to explore further, it’d
 
 I’m sure Transformers will improve our product exponentially. I have to thank you folks for the incredible job you’re doing with this. I’m really curious what’ll come up out of this new sprint. Good luck\!
 
-Valerio, your CTO -->
+Valerio, your CTO
 
 ### Final Project
 
