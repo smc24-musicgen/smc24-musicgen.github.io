@@ -98,7 +98,7 @@ Before taking this class, students are expected to have watched the following vi
 
 ### Class 6: Assignments Review
 
-When: January 27th at 16:00-18:30h (online).
+When: January 27th at 16:00-18:30h (in presence).
 
 What: 
 
@@ -107,7 +107,7 @@ What:
 
 ### Class 7: Paper Implementation
 
-When: January 28th at 16:30-18:30h (online).
+When: January 28th at 16:30-18:30h (in presence).
 
 What: 
 
@@ -116,7 +116,7 @@ What:
 
 ### Class 8: Creative Reverse Engineering \+ Wrap-up
 
-When: January 29th at 16:30-18:30h (online).
+When: January 29th at 9:30-11:30h (in presence).
 
 What: 
 
