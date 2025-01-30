@@ -9,7 +9,7 @@ title: Resources
 
 ***
 
-## Learning Material
+## Learning Material (Part 1)
 
 ### Required
 
@@ -53,3 +53,36 @@ title: Resources
   * [Video lectures (theory \+ implementation)](https://www.youtube.com/watch?v=ul8LLiFY0Dw&list=PL-wATfeyAMNpZ6-ESiXK9BnZmGLjqECt9)  
   * [Code \+ slides](https://github.com/musikalkemist/solidforml/tree/main/solidforml)  
 * [Clean Code in Python \- Second Edition: Develop maintainable and efficient code](https://www.amazon.es/Clean-Code-Python-maintainable-efficient/dp/1800560214)
+
+
+## Learning Material (Part 2)
+
+### Papers on Generative Audio 
+
+* Van Den Oord, A., Dieleman, S., Zen, H., Simonyan, K., Vinyals, O., Graves, A., ... & Kavukcuoglu, K. (**2016**). **Wavenet**: A generative model for raw audio. *arXiv preprint arXiv:1609.03499*, *12*.
+
+* Kumar, K., Kumar, R., De Boissiere, T., Gestin, L., Teoh, W. Z., Sotelo, J., ... & Courville, A. C. (**2019**). **Melgan**: Generative adversarial networks for conditional waveform synthesis. *Advances in neural information processing systems*, *32*.
+​		[keywords: Vocoder; Phase construction]
+
+* Engel, J., Agrawal, K. K., Chen, S., Gulrajani, I., Donahue, C., & Roberts, A. **(2019**). **Gansynth**: Adversarial neural audio synthesis. *arXiv preprint arXiv:1902.08710*.
+​		[keywords: conditional training]
+
+* Engel, J., Hantrakul, L., Gu, C., & Roberts, A. (**2020**). **DDSP**: Differentiable digital signal processing. *arXiv preprint arXiv:2001.04643*.
+​		[keywords: inductive bias, signal processing units, real time]
+
+* Caillon, A., & Esling, P. (**2021**). **RAVE**: A variational autoencoder for fast and high-quality neural audio synthesis. *arXiv preprint arXiv:2111.05011*.
+​		[keywords: conditional training]
+
+* Huzaifah, M., & Wyse, L. (2021). Deep generative models for musical audio synthesis. *Handbook of artificial intelligence for music: foundations, advanced approaches, and developments for creativity*, 639-678.
+​		[keywords: "review" paper]
+
+* Wyse, L., Kamath, P., & Gupta, C. (2022, April). Sound model factory: An integrated system architecture for generative audio modelling. In *International Conference on Computational Intelligence in Music, Sound, Art and Design (Part of EvoStar)* (pp. 308-322). Cham: Springer International Publishing.
+​		[keywords: playability; latent space]
+
+* Garcia, H. F., Seetharaman, P., Kumar, R., & Pardo, B. (2023). Vampnet: Music generation via masked acoustic token modeling. *arXiv preprint arXiv:2307.04686*.
+​		[keywords: transformer, in-painting, masking for training, codecs]
+  
+* Evans, Z., Parker, J. D., Carr, C. J., Zukowski, Z., Taylor, J., & Pons, J. (**2024**). **Stable audio open**. *arXiv preprint arXiv:2407.14358*.
+​		[keywords: Text-2-audio; Open (data, weights, code, latent diffusion]
+
+* Rafael Valle, Rohan Badlani, Zhifeng Kong, Sang-gil Lee, Arushi Goel, Sungwon Kim, Joao Felipe Santos, Shuqi Dai, Siddharth Gururani, Aya AlJa’fari, Alex Liu, Kevin Shih, ˜ Wei Ping, Bryan Catanzaro (**2024**). **Fugatto** 1 Foundational Generative Audio Transformer Opus 1

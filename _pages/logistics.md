@@ -14,6 +14,7 @@ title: Logistics
 * Part 1 of the course will use Python. 
 * All coding assignments should be coded in Python 3.10. 
 * The deep learning implementation will be done in TensorFlow/Keras.
+* Part 2 of the course will use Python and PyTorch.
 
 ### Assignments
 
@@ -90,6 +91,10 @@ If a student chooses to complete the Final Project associated with Part 1 (accou
 4. Clarity of the presentation  
 5. Quality of the creative output
 
+#### Final Project Evaluation (Part 2\)
+
+[TODO]
+
 ### Office Hours
 
 Students can book 20-minute slots (individually or in groups) with Dr. Valerio Velardo via this [Calendly page](https://calendly.com/valerio-velardo/office-hours-gen-mus-mtg), during the following times:
@@ -105,8 +110,10 @@ Students can reserve time with Anmol through MTG Slack, during the following tim
 * January 10th, 16:00–18:00  
 * January 24th, 12:00–14:00
 
+Students can book 20-minute slots (individually or in groups) with Lonce via a DM on our Slack channel or email.
+
 ### Communication
 
 * For general questions, please use the dedicated Slack channel on the MTG workspace: #smc24-musicgen.
 * This channel will serve as a hub for asynchronous communication and updates for all students, so make sure to check it regularly.
-* For individual questions, doubts, or ideas, feel free to send a direct message to Valerio Velardo and Anmol Mishra in the MTG Slack (@Valerio Velardo, @Anmol Mishra).
+* For individual questions, doubts, or ideas, feel free to send a direct message to Valerio Velardo, Anmol Mishra and Lonce Wyse in the MTG Slack (@Valerio Velardo, @Anmol Mishra, @lonce wyse).

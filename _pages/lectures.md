@@ -9,6 +9,8 @@ title: Lectures
 
 ***
 
+## Part 1
+
 ### Class 1: Course Introduction
 
 When: January 8th at 17:00-18:00h (online).
@@ -140,3 +142,45 @@ Before taking this class, students are expected to have installed the following 
 2. Hugging Face Transformers \[[blog](https://huggingface.co/docs/transformers/en/quicktour)\]  
 3. Hugging Face MuPT \[[blog](https://huggingface.co/m-a-p/MuPT-v1-8192-190M)\]
 
+## Part 2
+
+### Week 1: Audio modeling Introduction
+
+When:
+February 3 at 16:30:00-18:00h.
+February 5 at 17:00-18:00h.
+
+What:
+
+* Introduction to the second part of the course on generative audio.
+* Discussion about the main ideas, audio representations, and architectures commonly used.
+* Sound Model Factory approach to creating playable audio models.
+
+Class preparation :
+
+1. Engel, J., Agrawal, K. K., Chen, S., Gulrajani, I., Donahue, C., & Roberts, A. **(2019**). **Gansynth**: Adversarial neural audio synthesis. *arXiv preprint arXiv:1902.08710*.  [[Link]](https://arxiv.org/abs/1902.08710)
+2. Wyse, L., Kamath, P., & Gupta, C. (2022, April). Sound model factory: An integrated system architecture for generative audio modelling. In *International Conference on Computational Intelligence in Music, Sound, Art and Design (Part of EvoStar)* (pp. 308-322). Cham: Springer International Publishing. [[Link]](https://arxiv.org/abs/2206.13085)
+
+### Week 2: Representation
+
+When:
+February 10 at 16:30:00-18:00h.
+February 12 at 17:00-18:00h.
+
+### Week 3: Codecs
+
+When:
+February 17 at 16:30:00-18:00h.
+February 19 at 17:00-18:00h.
+
+### Week 4: DDSP and Rave
+
+When:
+February 24 at 16:30:00-18:00h.
+February 26 at 17:00-18:00h.
+
+### Week 5: Transformers for Audio
+
+When:
+March 3 at 16:30:00-18:00h.
+March 5 at 17:00-18:00h.
