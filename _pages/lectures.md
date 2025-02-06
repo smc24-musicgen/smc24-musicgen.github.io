@@ -147,7 +147,7 @@ Before taking this class, students are expected to have installed the following 
 ### Week 1: Audio modeling Introduction
 
 When:
-February 3 at 16:30:00-18:00h.
+February 3 at 16:00-17:30h.
 February 5 at 17:00-18:00h.
 
 What:
@@ -164,23 +164,23 @@ Class preparation :
 ### Week 2: Representation
 
 When:
-February 10 at 16:30:00-18:00h.
+February 10 at 16:00-17:30h.
 February 12 at 17:00-18:00h.
 
 ### Week 3: Codecs
 
 When:
-February 17 at 16:30:00-18:00h.
+February 17 at 16:00-17:30h.
 February 19 at 17:00-18:00h.
 
 ### Week 4: DDSP and Rave
 
 When:
-February 24 at 16:30:00-18:00h.
+February 24 at 16:00-17:30h.
 February 26 at 17:00-18:00h.
 
 ### Week 5: Transformers for Audio
 
 When:
-March 3 at 16:30:00-18:00h.
+March 3 at 16:00-17:30h.
 March 5 at 17:00-18:00h.
