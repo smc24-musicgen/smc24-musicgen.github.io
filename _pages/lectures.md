@@ -161,25 +161,57 @@ Class preparation :
 1. Engel, J., Agrawal, K. K., Chen, S., Gulrajani, I., Donahue, C., & Roberts, A. **(2019**). **Gansynth**: Adversarial neural audio synthesis. *arXiv preprint arXiv:1902.08710*.  [[Link]](https://arxiv.org/abs/1902.08710)
 2. Wyse, L., Kamath, P., & Gupta, C. (2022, April). Sound model factory: An integrated system architecture for generative audio modelling. In *International Conference on Computational Intelligence in Music, Sound, Art and Design (Part of EvoStar)* (pp. 308-322). Cham: Springer International Publishing. [[Link]](https://arxiv.org/abs/2206.13085)
 
+Preclass Quiz: [[Link](https://docs.google.com/forms/d/1pWXyrZHxwJLKTV1kinh95iuGIdNUfHAjEhOR6siIh8w/edit)]
+
 ### Week 2: Representation
 
 When:
 February 10 at 16:00-17:30h.
 February 12 at 17:00-18:00h.
 
-### Week 3: Codecs
+What:
+
+* From Audio representations to Codecs
+
+ Class preparation :
+
+1. Kumar, R., Seetharaman, P., Luebs, A., Kumar, I., & Kumar, K. (2024). High-fidelity audio compression with improved rvqgan. Advances in Neural Information Processing Systems, 36. [[Link](https://arxiv.org/pdf/2306.06546)]
+   The Descript Audio Codec (DAC) that we will look at more closely next week.
+
+2. Garcia, H. F., Seetharaman, P., Kumar, R., & Pardo, B. (2023). Vampnet: Music generation via masked acoustic token modeling. arXiv preprint arXiv:2307.04686. [[Link](https://arxiv.org/pdf/2307.04686)] 
+Uses the DAC in fun an interesting ways, helps to understand and motivate tokenization.
+
+Optional:
+3. Van Den Oord, A., & Vinyals, O. (2017). Neural discrete representation learning. Advances in neural information processing systems, 30. [[Link](https://arxiv.org/pdf/1711.00937)]
+5000 citations - historically important paper, a good image that Kumar et al should really have, and a section specifically on audio.
+
+Preclass Quiz: [[Link](https://docs.google.com/forms/d/e/1FAIpQLSdW-szttfBxx4LCAZXWvKpK4EcFS-1ZK8o_9b6LoqekH6z2qA/viewform?usp=sharing)]
+
+***Play! Come in to class Wednesday with something to show/discuss in this Collab Notebook*** for exploring codec issues (using the Descript Audio Codec): [[playground](https://colab.research.google.com/drive/1aGzVYOu4vynEz8LY2Kf6wsl9j5OzaHON?usp=sharing)]
+
+### Week 3: DDSP (and Rave?)
 
 When:
 February 17 at 16:00-17:30h.
 February 19 at 17:00-18:00h.
 
-### Week 4: DDSP and Rave
+What:
+
+* Fast learning, small datasets, Real time inference
+
+ Class preparation :
+
+1. ...
+
+***Play! Come in to class Wednesday with something to show/discuss in this Collab Notebook*** for DDSP style transfer learning using pretrained violin and/or bassoon model: [[playground](https://colab.research.google.com/drive/1KBuSYZ5LLtFIBf8z1kPWVCytSj4l_MbR?usp=sharing)1] & Collab notebook for DDSP + NoisBandNet implementation (by Blazej Kotowski )  [[playground2](https://colab.research.google.com/drive/1otNApPfqy9DcbyX1Jaxu1Xc1AR9RrEzT?authuser=1#scrollTo=5Xkiy29wEITF)]
+
+### Week 4: Transformers for Audio
 
 When:
 February 24 at 16:00-17:30h.
 February 26 at 17:00-18:00h.
 
-### Week 5: Transformers for Audio
+### Week 5: TBA
 
 When:
 March 3 at 16:00-17:30h.
