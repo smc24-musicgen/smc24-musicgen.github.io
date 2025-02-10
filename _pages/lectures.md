@@ -175,15 +175,12 @@ What:
 
  Class preparation :
 
-1. Kumar, R., Seetharaman, P., Luebs, A., Kumar, I., & Kumar, K. (2024). High-fidelity audio compression with improved rvqgan. Advances in Neural Information Processing Systems, 36. [[Link](https://arxiv.org/pdf/2306.06546)]
-   The Descript Audio Codec (DAC) that we will look at more closely next week.
+1. Kumar, R., Seetharaman, P., Luebs, A., Kumar, I., & Kumar, K. (2024). High-fidelity audio compression with improved rvqgan. Advances in Neural Information Processing Systems, 36. [[Link](https://arxiv.org/pdf/2306.06546)] - The Descript Audio Codec (DAC) that we will look at more closely next week.
 
-2. Garcia, H. F., Seetharaman, P., Kumar, R., & Pardo, B. (2023). Vampnet: Music generation via masked acoustic token modeling. arXiv preprint arXiv:2307.04686. [[Link](https://arxiv.org/pdf/2307.04686)] 
-Uses the DAC in fun an interesting ways, helps to understand and motivate tokenization.
+2. Garcia, H. F., Seetharaman, P., Kumar, R., & Pardo, B. (2023). Vampnet: Music generation via masked acoustic token modeling. arXiv preprint arXiv:2307.04686. [[Link](https://arxiv.org/pdf/2307.04686)] - Uses the DAC in fun an interesting ways, helps to understand and motivate tokenization.
 
 Optional:
-3. Van Den Oord, A., & Vinyals, O. (2017). Neural discrete representation learning. Advances in neural information processing systems, 30. [[Link](https://arxiv.org/pdf/1711.00937)]
-5000 citations - historically important paper, a good image that Kumar et al should really have, and a section specifically on audio.
+3. Van Den Oord, A., & Vinyals, O. (2017). Neural discrete representation learning. Advances in neural information processing systems, 30. [[Link](https://arxiv.org/pdf/1711.00937)] - 5000 citations - historically important paper, a good image that Kumar et al should really have, and a section specifically on audio.
 
 Preclass Quiz: [[Link](https://docs.google.com/forms/d/e/1FAIpQLSdW-szttfBxx4LCAZXWvKpK4EcFS-1ZK8o_9b6LoqekH6z2qA/viewform?usp=sharing)]
 
