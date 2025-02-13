@@ -144,7 +144,7 @@ Before taking this class, students are expected to have installed the following 
 
 ## Part 2
 
-### Week 1: Audio modeling Introduction
+### Week 1: Audio modeling Introduction; Sound Model Factory
 
 When:
 February 3 at 16:00-17:30h.
@@ -163,7 +163,7 @@ Class preparation :
 
 Preclass Quiz: [[Link](https://docs.google.com/forms/d/1pWXyrZHxwJLKTV1kinh95iuGIdNUfHAjEhOR6siIh8w/edit)]
 
-### Week 2: Representation
+### Week 2: Representation & Codecs
 
 When:
 February 10 at 16:00-17:30h.
@@ -186,7 +186,11 @@ Preclass Quiz: [[Link](https://docs.google.com/forms/d/e/1FAIpQLSdW-szttfBxx4LCA
 
 ***Play! Come in to class Wednesday with something to show/discuss in this Collab Notebook*** for exploring codec issues (using the Descript Audio Codec): [[playground](https://colab.research.google.com/drive/1aGzVYOu4vynEz8LY2Kf6wsl9j5OzaHON?usp=sharing)]
 
-### Week 3: DDSP (and Rave?)
+You can also checkout the notebooks I was using in class: https://github.com/lonce/DACodecMorphing
+
+
+
+### Week 3: DDSP and Rave
 
 When:
 February 17 at 16:00-17:30h.
@@ -194,21 +198,31 @@ February 19 at 17:00-18:00h.
 
 What:
 
-* Fast learning, small datasets, Real time inference
+* Fast learning, small datasets, real time inference, differentiation
 
  Class preparation :
 
-1. ...
+1. Engel, J., Hantrakul, L., Gu, C., & Roberts, A. (2020). DDSP: Differentiable digital signal processing. *arXiv preprint arXiv:2001.04643*. [[Link](https://arxiv.org/pdf/2001.04643)]
+
+2. Caillon, A., & Esling, P. (2021). RAVE: A variational autoencoder for fast and high-quality neural audio synthesis. *arXiv preprint arXiv:2111.05011*. [[Link](https://arxiv.org/pdf/2111.05011)]
+
+   (Optional) You might also be interested: 
+
+3. Barahona-Ríos, A., & Collins, T. (2024). NoiseBandNet: controllable time-varying neural synthesis of sound effects using filterbanks. *IEEE/ACM Transactions on Audio, Speech, and Language Processing*, *32*, 1573-1585.
 
 ***Play! Come in to class Wednesday with something to show/discuss in this Collab Notebook*** for DDSP style transfer learning using pretrained violin and/or bassoon model: [[playground](https://colab.research.google.com/drive/1KBuSYZ5LLtFIBf8z1kPWVCytSj4l_MbR?usp=sharing)1] & Collab notebook for DDSP + NoisBandNet implementation (by Blazej Kotowski )  [[playground2](https://colab.research.google.com/drive/1otNApPfqy9DcbyX1Jaxu1Xc1AR9RrEzT?authuser=1#scrollTo=5Xkiy29wEITF)]
 
-### Week 4: Transformers for Audio
+
+
+### Week 4: Text2Audio
 
 When:
 February 24 at 16:00-17:30h.
 February 26 at 17:00-18:00h.
 
-### Week 5: TBA
+
+
+### Week 5: Transformers for Audio
 
 When:
 March 3 at 16:00-17:30h.
