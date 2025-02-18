@@ -210,7 +210,7 @@ What:
 
 3. Barahona-Ríos, A., & Collins, T. (2024). NoiseBandNet: controllable time-varying neural synthesis of sound effects using filterbanks. *IEEE/ACM Transactions on Audio, Speech, and Language Processing*, *32*, 1573-1585.
 
-***Play! Come in to class Wednesday with something to show/discuss in this Collab Notebook*** for DDSP style transfer learning using pretrained violin and/or bassoon model: [[playground](https://colab.research.google.com/drive/1KBuSYZ5LLtFIBf8z1kPWVCytSj4l_MbR?usp=sharing)1] & Collab notebook for DDSP + NoisBandNet implementation (by Blazej Kotowski )  [[playground2](https://colab.research.google.com/drive/1otNApPfqy9DcbyX1Jaxu1Xc1AR9RrEzT?authuser=1#scrollTo=5Xkiy29wEITF)]
+***Play! Come in to class Wednesday with something to show/discuss in this Collab Notebook*** for DDSP style transfer learning using pretrained violin and/or bassoon model: [[playground](https://colab.research.google.com/drive/1KBuSYZ5LLtFIBf8z1kPWVCytSj4l_MbR?usp=sharing)1] & Collab notebook for DDSP + NoisBandNet implementation (by Blazej Kotowski )  [[playground2](https://colab.research.google.com/drive/1evwrmvxBzI30_5c-MU9tqK_bkR6S7d7u?usp=sharing)]
 
 
 
