@@ -233,7 +233,9 @@ Class preparation :
 
   4. Copet, J., Kreuk, F., Gat, I., Remez, T., Kant, D., Synnaeve, G., ... & Défossez, A. (2023). Simple and controllable music generation. Advances in Neural Information Processing Systems, 36, 47704-47720. [[Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/94b472a1842cd7c56dcb125fb2765fbd-Paper-Conference.pdf)] (This is the "MusicGen" paper from Meta)
 
-     
+The videos are a "review" of the fundamentals of Transformers - You've looked at Transformers before, I know, but they are here because you may not have all the details clear in your mind and they are excellent (Bloem for clear explanation, and 3 Brown one Blue for visualization).
+
+The paper is a classic. It is actually Text-2-Audio, but uses a token-based autoregressive Transformer network at its core, using language as conditioning. Pretty cool, and a good transition to more "proper" text to audio that we will look at next week. 
 
 ### Week 5: Text2Audio 
 
