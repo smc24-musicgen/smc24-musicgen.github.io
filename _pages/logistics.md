@@ -41,19 +41,7 @@ title: Logistics
 
 ### Final Project
 
-Students can choose to create a Final Project for either Part 1 or Part 2 of the course. The Final Project for Part 1 will focus on symbolic generative music, while the Final Project for Part 2 will focus on audio-based generative music.
-
-For those opting for a Final Project in Part 1, the task will be to design and implement a symbolic generative music system. This project should demonstrate the adaptation and/or combination of one or more techniques covered during the course.
-
-The final project can be done alone, or in a group of up to three people.
-
-The system will generate symbolic scores, which will be sent to Ableton for sonification. The objective is to create a semi-realtime generative application with a strong focus on creative value.
-
-The final project deliverables are: 
-
-1. A GitHub repository link containing the implementation code in the course Github Classroom. 
-2. A 5-minute YouTube video presentation explaining how the model works.  
-3. A 5-minute video demonstration showcasing the model in action.
+Students can choose to create a Final Project for either Part 1 or Part 2 of the course. The Final Project for Part 1 will focus on symbolic generative music, while the Final Project for Part 2 will focus on audio-based generative music. The final project can be done alone, or in a group of up to three people.
 
 ### Deadlines
 
@@ -93,7 +81,11 @@ If a student chooses to complete the Final Project associated with Part 1 (accou
 
 #### Final Project Evaluation (Part 2\)
 
-[TODO]
+1. Clarity and organization of the presentation
+2. Choice of relevant literature
+3. Explanations of issues you are addressing
+4. Code you developed to explore and demonstrate
+5. Evidence of effort, and learning through the project
 
 ### Office Hours
 
@@ -110,7 +102,7 @@ Students can reserve time with Anmol through MTG Slack, during the following tim
 * January 10th, 16:00–18:00  
 * January 24th, 12:00–14:00
 
-Students can book 20-minute slots (individually or in groups) with Lonce via a DM on our Slack channel or email.
+Students can book 20-minute slots (individually or in groups) with Lonce via a DM on course Slack or email.
 
 ### Communication
 
