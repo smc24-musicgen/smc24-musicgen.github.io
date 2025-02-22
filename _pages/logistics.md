@@ -52,7 +52,7 @@ Students can choose to create a Final Project for either Part 1 or Part 2 of the
   * Transformer quiz: January 14th noon \- January 15th noon  
 * The four code assignments are due by January 25th at midnight.  
 * The paper implementation is due by January 26th at midnight.  
-* The final project is due by March 20th at midnight.
+* The final project is due by March 24th at midnight.
 
 ### Evaluation
 
