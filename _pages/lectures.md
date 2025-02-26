@@ -144,6 +144,8 @@ Before taking this class, students are expected to have installed the following 
 
 ## Part 2
 
+Slides [[CMC_0_Intro](https://drive.google.com/file/d/17SqQoT6LKyf9Xq2g41B6IZJDZdC51uW3/view?usp=drive_link)]
+
 ### Week 1: Audio modeling Introduction; Sound Model Factory
 
 When:
@@ -162,6 +164,8 @@ Class preparation :
 2. Wyse, L., Kamath, P., & Gupta, C. (2022, April). Sound model factory: An integrated system architecture for generative audio modelling. In *International Conference on Computational Intelligence in Music, Sound, Art and Design (Part of EvoStar)* (pp. 308-322). Cham: Springer International Publishing. [[Link]](https://arxiv.org/abs/2206.13085)
 
 Preclass Quiz: [[Link](https://docs.google.com/forms/d/1pWXyrZHxwJLKTV1kinh95iuGIdNUfHAjEhOR6siIh8w/edit)]
+
+Slides [[CMC_1_DataDrivenSoundModeling.pdf](https://drive.google.com/file/d/1DN-uG18e1rTwwXn_lsPs653uHDzVj9wF/view?usp=drive_link)]
 
 ### Week 2: Representation & Codecs
 
@@ -188,7 +192,9 @@ Preclass Quiz: [[Link](https://docs.google.com/forms/d/e/1FAIpQLSdW-szttfBxx4LCA
 
 You can also checkout the notebooks I was using in class: https://github.com/lonce/DACodecMorphing
 
+Slides [[CMC_2a_Representation&SoundModeling.pdf](https://drive.google.com/file/d/1KIJhF_lQSgqW_Rc8PHQk5xFx6IpfYOar/view?usp=drive_link)]
 
+Slides[[CMC_2b_Representation&SoundModeling.pdf](https://drive.google.com/file/d/1UeOZhJJkD37G7vHvgZtnaR0asI0UgU4s/view?usp=drive_link)]
 
 ### Week 3: DDSP and Rave
 
@@ -212,7 +218,7 @@ What:
 
 ***Play! Come in to class Wednesday with something to show/discuss in this Collab Notebook*** for DDSP style transfer learning using pretrained violin and/or bassoon model: [[playground](https://colab.research.google.com/drive/1KBuSYZ5LLtFIBf8z1kPWVCytSj4l_MbR?usp=sharing)1] & Collab notebook for DDSP + NoisBandNet implementation (by Blazej Kotowski )  [[playground2](https://colab.research.google.com/drive/1evwrmvxBzI30_5c-MU9tqK_bkR6S7d7u?usp=sharing)]
 
-
+Slides[[CMC3_DDSP.RAVE.pdf](https://drive.google.com/file/d/1X4hO8hkjzGpIjpPT0_JxgyhKZ7fcF_zR/view?usp=drive_link)]
 
 ### Week 4: Transformers for Audio
 
@@ -236,6 +242,10 @@ Class preparation :
 The videos are a "review" of the fundamentals of Transformers - You've looked at Transformers before, I know, but they are here because you may not have all the details clear in your mind and they are excellent (Bloem for clear explanation, and 3 Brown one Blue for visualization).
 
 The paper is a classic. It is actually Text-2-Audio, but uses a token-based autoregressive Transformer network at its core, using language as conditioning. Pretty cool, and a good transition to more "proper" text to audio that we will look at next week. 
+
+Slides[[CMC4_TransformersForAudio.pdf](https://drive.google.com/file/d/17cRowER2LLAtzXGp_7MbYG7MfNshozUG/view?usp=drive_link)]
+
+Github code for [[Synthformer](https://github.com/lonce/DACSynthformer)]
 
 ### Week 5: Text2Audio 
 
