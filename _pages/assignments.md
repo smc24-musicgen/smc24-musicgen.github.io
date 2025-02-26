@@ -241,6 +241,21 @@ I’m sure Transformers will improve our product exponentially. I have to thank 
 
 Valerio, your CTO
 
+### Assignment 5: Generative Audio Transformers (CMC Pt. 2)
+
+Think about something you'd like to explore and understand better about audio and transformers (the Synthformer), choose/create a dataset for addressing your questions, and explore the relationship between data, labeling, and model hyperparameters. Either technical or creative orientations are fine.
+
+The sound quality of the results need not be great in order to explore how data and model work together. Don't worry if you don't have big compute resources and sparkling sonic results - that's not the point! 
+
+Work in groups of 1-3 people. 
+
+**Deliverables, due on our last class day, Wednesday March 5th:**
+* 5 minute class presentation 
+* 1-1.5 1.5 page discussion of how and why you chose your dataset, how you labeled it, 
+what question(s) you were trying to address, what you did to address your questions, and what you learned. Link to your code (start from forked [Synthformer](https://github.com/lonce/DACSynthformer))
+
+
+
 ### Final Project: Part 1 Symbolic
 
 Hey Team,
